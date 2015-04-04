@@ -46,7 +46,7 @@
         <dependency>
             <groupId>org.isatools</groupId>
             <artifactId>ISAcreator</artifactId>
-            <version>1.7.8</version>
+            <version>1.7.7</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.slf4j</groupId>
